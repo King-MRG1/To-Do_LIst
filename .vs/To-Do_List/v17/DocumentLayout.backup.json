@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FC5B2C44-F19A-4D61-8441-86F3708B7EAB}|To-Do_List.csproj|d:\\coding\\to-do_list\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC5B2C44-F19A-4D61-8441-86F3708B7EAB}|To-Do_List.csproj|solutionrelative:controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC5B2C44-F19A-4D61-8441-86F3708B7EAB}|To-Do_List.csproj|d:\\coding\\to-do_list\\dto\\taskmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC5B2C44-F19A-4D61-8441-86F3708B7EAB}|To-Do_List.csproj|solutionrelative:dto\\taskmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,23 +24,10 @@
               "RelativeDocumentMoniker": "Controllers\\TaskController.cs",
               "ToolTip": "D:\\coding\\To-Do_List\\Controllers\\TaskController.cs",
               "RelativeToolTip": "Controllers\\TaskController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCwAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwGAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T13:17:18.257Z",
               "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TaskMapping.cs",
-              "DocumentMoniker": "D:\\coding\\To-Do_List\\Dto\\TaskMapping.cs",
-              "RelativeDocumentMoniker": "Dto\\TaskMapping.cs",
-              "ToolTip": "D:\\coding\\To-Do_List\\Dto\\TaskMapping.cs",
-              "RelativeToolTip": "Dto\\TaskMapping.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T13:27:38.626Z",
               "EditorCaption": ""
             },
             {
